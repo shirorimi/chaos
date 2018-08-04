@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"リミアの家リビング","order":2,"parentId":4,"scrollX":809.5,"scrollY":452},
 {"id":2,"expanded":false,"name":"リミア家倉庫","order":3,"parentId":1,"scrollX":809.5,"scrollY":452},
 {"id":3,"expanded":true,"name":"庭","order":4,"parentId":1,"scrollX":809.5,"scrollY":452},
-{"id":4,"expanded":false,"name":"暗闇","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":false,"name":"暗闇","order":1,"parentId":0,"scrollX":633.5,"scrollY":446.5},
 {"id":5,"expanded":true,"name":"街道1","order":5,"parentId":1,"scrollX":809.5,"scrollY":452},
 {"id":6,"expanded":false,"name":"街への道２","order":6,"parentId":5,"scrollX":819,"scrollY":461},
 {"id":7,"expanded":false,"name":"森の町","order":7,"parentId":0,"scrollX":967,"scrollY":625},
@@ -71,5 +71,6 @@ null,
 {"id":69,"expanded":true,"name":"呪われた洞窟回想","order":62,"parentId":54,"scrollX":1774.5,"scrollY":700.5},
 {"id":70,"expanded":false,"name":"教会回想用","order":33,"parentId":17,"scrollX":625.5,"scrollY":560.5},
 {"id":71,"expanded":false,"name":"回想すらむ","order":72,"parentId":52,"scrollX":633.5,"scrollY":446.5},
-{"id":72,"expanded":false,"name":"MAP072","order":54,"parentId":42,"scrollX":633.5,"scrollY":446.5}
+{"id":72,"expanded":false,"name":"MAP072","order":54,"parentId":42,"scrollX":633.5,"scrollY":446.5},
+{"id":73,"expanded":false,"name":"ブラウザ","order":73,"parentId":0,"scrollX":633.5,"scrollY":446.5}
 ]
